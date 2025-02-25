@@ -1,4 +1,4 @@
-Project Terrific is your go-to free public FiveM Roleplay server built on the QBcore base. Dive into a world of roleplay without the hassle of setup – it's all pre-configured for you!
+Beaver City is your go-to free public FiveM Roleplay server built on the QBcore base. Dive into a world of roleplay without the hassle of setup – it's all pre-configured for you!
 
 🌟 Features
 Plug and Play: No coding expertise? No problem! Our server is pre-built, allowing you to jump straight into the action.
@@ -6,9 +6,9 @@ Seamless Integration: We've meticulously integrated all resources, even if that 
 Growing Community: Engage with our active and welcoming community.
 Frequent Additions: We're constantly adding new free features, ensuring a fresh experience every time.
 🚀 Getting Started
-To immerse yourself in the world of "Project Terrific", follow these steps:
+To immerse yourself in the world of "Beaver City", follow these steps:
 
-Clone the Project Terrific repository to your VPS or local machine.
+Clone the Beaver City repository to your VPS or local machine.
 Set up a database and import the provided .SQL file located in \ProjectTerrific\SQL. Ensure you execute them in the correct sequence.
 Fine-tune the CFG files to suit your preferences.
 Jump in and enjoy!
@@ -21,17 +21,18 @@ https://discord.gg/fkzvNft7gp
 
 
 🤝 Contributing
-Your expertise can help shape "Project Terrific"! Whether you've spotted a bug, have a feature in mind, or wish to submit a pull request – every contribution matters.
+Your expertise can help shape "Beaver City"! Whether you've spotted a bug, have a feature in mind, or wish to submit a pull request – every contribution matters.
 
 🌐 Community and Support
-Our community is our strength. Connect with fellow developers, get assistance, and be the first to hear about the latest "Project Terrific" news on our Discord server.
+Our community is our strength. Connect with fellow developers, get assistance, and be the first to hear about the latest "Beaver City" news on our Discord server.
 
 Join our Discord server : https://discord.gg/fkzvNft7gp
 
 
 📜 License
-Project Terrific is proudly released under the GNU General Public License. You're free to redistribute and/or modify it in accordance with the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any subsequent version.
 
-Grateful for your interest in Project Terrific! For any queries or issues, join our Discord community linked above.
+Beaver City is proudly released under the GNU General Public License. You're free to redistribute and/or modify it in accordance with the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any subsequent version.
 
-README inspired and adapted from the mercy-collective GitHub repository
+Grateful for your interest in Beaver City! For any queries or issues, join our Discord community linked above.
+
+README inspired and adapted from the Project-Bit, and mercy-collective GitHub repository
